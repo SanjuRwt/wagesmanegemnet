@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;}
+
+  table,th,td{
+    border:1px soild black;
+    border-collapse: collapse;
+  }
